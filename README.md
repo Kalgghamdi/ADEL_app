@@ -40,6 +40,38 @@ To set up the project on your local machine:
    ```bash
    git clone https://github.com/your-username/smart-traffic-signal-system.git
 
+## Install dependencies:
+cd smart-traffic-signal-system
+npm install
+
+## Run the application:
+npm start
+
+## ✨ Features
+The **Smart Traffic Signal System** offers several key features that contribute to more efficient and intelligent traffic management:
+
+- **Real-time Vehicle Density Monitoring**: Continuously detects the number of vehicles at each traffic light, ensuring the system adapts to live traffic conditions.
+  
+- **Weighted Vehicle Prioritization**: Assigns different weights to vehicles based on their type, such as:
+  - Small cars (weight = 1)
+  - Large trucks (weight = 2)
+  This allows for more balanced signal timing, giving heavier traffic more attention without ignoring smaller vehicles.
+
+- **Dynamic Signal Timing Adjustment**: Automatically adjusts the duration of green, yellow, and red lights based on vehicle density and weights, reducing congestion during peak hours and enhancing traffic flow during quieter times.
+
+- **Fair Time Distribution**: If a total signal time of 2 minutes is set for an intersection, the system distributes the time fairly across all directions while considering vehicle density, ensuring smoother movement across all lanes.
+
+- **Customizable for Different Cities**: The system can be configured to suit different urban traffic conditions and can easily adapt to varying vehicle types and traffic patterns.
+
+- **Environmental Impact**: Reducing idle time at traffic signals not only improves traffic flow but also cuts down on fuel consumption and emissions, making the system more eco-friendly.
+
+- **Integration with IoT and Smart Cities**: Supports integration with IoT devices and smart city infrastructure, enabling further enhancements like communicating with autonomous vehicles and traffic management centers.
+
+- **Scalability**: Can be scaled from small city intersections to large metropolitan areas with multiple intersections, offering flexibility as cities grow and traffic demands increase.
+
+These features make the system highly adaptable and efficient in improving both traffic flow and urban mobility.
+
+
 
 - 📫 How to reach me **kalgghamdi@gmail.com**
 
