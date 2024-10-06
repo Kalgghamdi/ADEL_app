@@ -35,7 +35,7 @@ This project implements a **Smart Traffic Signal System** that optimizes traffic
    ```bash
    git clone https://github.com/your-username/smart-traffic-signal-system.git
    cd smart-traffic-signal-system
-2.Install dependencies: Make sure to install all the required Python packages:
+2.**Install dependencies**: Make sure to install all the required Python packages:
 pip install -r requirements.txt
 3.Run the application:
 streamlit run app.py
