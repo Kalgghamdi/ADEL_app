@@ -16,6 +16,11 @@ This project implements a **Smart Traffic Signal System** that optimizes traffic
 - **Dynamic Signal Timing**: Adjusts the green light duration based on vehicle density and types.
 - **Traffic Violation Detection**: Monitors illegal lane changes and signals violations.
 
+## ## 🎥 Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+
+
 ## 🛠 Technologies Used
 - **Computer Vision**: OpenCV
 - **Vehicle Detection**: YOLO, PaddleOCR
@@ -68,6 +73,12 @@ Cloud Integration: Store real-time traffic data on the cloud for long-term analy
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khaled%20AlGhamdi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/khaled-alghamdi-b33718a5/)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Waleed%20AlIkhwan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/waleed-al-ikhwan-a9725a139/)
 
+## Key Features
+
+- *Vehicle Detection*: YOLOv8 detects vehicles in real time with high accuracy, categorizing vehicles like cars, trucks, buses, and motorbikes.
+- *License Plate Recognition*: PaddleOCR is used for detecting and reading license plates, ensuring that violators are properly identified.
+- *Traffic Signal Optimization*: The system dynamically adjusts traffic signal timing based on vehicle density at intersections, improving traffic flow.
+- *Violation Detection*: Smart cameras monitor lane-crossing violations, with automatic notifications sent to violators, reducing manual law enforcement efforts.
 
 ## Course instructors
 1. Ali H. El-Kassas<br/>
