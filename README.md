@@ -35,8 +35,20 @@ This project implements a **Smart Traffic Signal System** that optimizes traffic
    ```bash
    git clone https://github.com/your-username/smart-traffic-signal-system.git
    cd smart-traffic-signal-system
+2.Install dependencies: Make sure to install all the required Python packages:
+pip install -r requirements.txt
+3.Run the application:
+streamlit run app.py
 
+🔍 How It Works
+Vehicle Detection and Classification
+The system uses computer vision to detect vehicles and classify them into two categories:
 
+Small cars: Given a weight of 1
+Large trucks: Given a weight of 2
+Based on the weights, the signal time is adjusted dynamically to reduce congestion.
+
+Code Snippet: Vehicle Detection and Signal Timing
 ## Problems Faced
 1. The ATmega32 has 3 timers. We have used timer1 for the sonar while timer0 for determining the time duration a vehicle remains stand still. That's why we have to use one microcontroller for each lane of any road. This leads to increased number of microcontrollers
 2. The systems performs badly if two or more lanes become jam packed. In that case, the system serves only the jam packed roads while the other roads remains unserved.
