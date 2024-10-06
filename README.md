@@ -63,12 +63,14 @@ Cloud Integration: Store real-time traffic data on the cloud for long-term analy
 
 ## Group Members Information
 - Mohammed Alrowais 
-
+https://www.linkedin.com/in/mohammed-alrowais-565563277/
 - Mohammed Al Malki 
+https://www.linkedin.com/in/mohammed-almalki-m2000/
 
 - Khaled AlGhamdi 
-  
+  https://www.linkedin.com/in/khaled-alghamdi-b33718a5/
 - Waleed AlIkhwan
+https://www.linkedin.com/in/waleed-al-ikhwan-a9725a139/
 
 ## Course instructors
 1. Ali H. El-Kassas<br/>
