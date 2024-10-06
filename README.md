@@ -1,6 +1,6 @@
 ![WhatsApp Image 2024-10-05 at 10 14 52 PM](https://github.com/user-attachments/assets/6a1b3af0-d464-42ae-8590-535c7f2488a7)
 
-<h2 align="center">Smart Traffic Signal System</h2>
+<h2 align="center">Traffic Solution Using Computer Vision (عادِل)</h2>
 
 # ADEL_APP Project - 2024
 # Traffic Solution Using Computer Vision (عادِل)
