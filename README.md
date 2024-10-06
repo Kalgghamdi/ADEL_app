@@ -3,7 +3,7 @@
 <h2 align="center">Smart Traffic Signal System</h2>
 
 # ADEL_APP Project - 2024
-# Smart Traffic Signal Control System
+# Traffic Solution Using Computer Vision (عادِل)
 ## A Brief Description
 In this Project we have designed a smart traffic signal control system which automatically detects traffic jam and decides which lane should be opened.
 
