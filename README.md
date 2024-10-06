@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm ADEL_APP</h1>
+<h1 align="center"> I'm ADEL_APP</h1>
 <h3 align="center">Smart Traffic Signal System</h3>
+
+# ADEL_APP Project - 2024
+# Smart Traffic Signal Control System
+## A Brief Description
+In this Project we have designed a smart traffic signal control system which automatically detects traffic jam and decides which lane should be opened.
+
+If there is no traffic jam in any lane, the system sequentially keeps open one lane one after another. But if there is traffic jam in one or more lanes, the system serves the lane in which traffic jam occured first.
 
 - I’m looking to collaborate on **I'm looking for collaborators who are passionate about: - **Traffic Management Systems**: Developers, engineers, or urban planners who are interested in optimizing and improving traffic flow using smart technologies. - **Machine Learning & AI**: Experts in AI who can help improve the real-time detection and analysis of vehicle data. - **IoT and Smart Cities**: Innovators working on IoT and smart infrastructure solutions that align with Vision 2030 and the concept of sustainable cities. - **Open-Source Enthusiasts**: Contributors who want to help with code development, testing, and documentation.**
 
