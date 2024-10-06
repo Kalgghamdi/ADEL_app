@@ -61,7 +61,6 @@ Integration with Autonomous Vehicles: Communicate directly with smart vehicles t
 Enhanced Traffic Violation Detection: Add more sophisticated violation detection features such as speed monitoring and red-light running.
 Cloud Integration: Store real-time traffic data on the cloud for long-term analysis and improvements.
 
-## Group Members Information
 ## 👥 Group Members Information
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Alrowais-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohammed-alrowais-565563277/)
