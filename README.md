@@ -52,6 +52,10 @@ Code Snippet: Vehicle Detection and Signal Timing
 ## Problems Faced
 1. The ATmega32 has 3 timers. We have used timer1 for the sonar while timer0 for determining the time duration a vehicle remains stand still. That's why we have to use one microcontroller for each lane of any road. This leads to increased number of microcontrollers
 2. The systems performs badly if two or more lanes become jam packed. In that case, the system serves only the jam packed roads while the other roads remains unserved.
+## 🤖 Future Enhancements
+Integration with Autonomous Vehicles: Communicate directly with smart vehicles to optimize traffic flow further.
+Enhanced Traffic Violation Detection: Add more sophisticated violation detection features such as speed monitoring and red-light running.
+Cloud Integration: Store real-time traffic data on the cloud for long-term analysis and improvements.
 
 ## Group Members Information
 - Mohammed Alrowais 
