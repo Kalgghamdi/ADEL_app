@@ -4,14 +4,42 @@
 
 # ADEL_APP Project - 2024
 # Traffic Solution Using Computer Vision (عادِل)
-## A Brief Description
-In this Project we have designed a smart traffic signal control system which automatically detects traffic jam and decides which lane should be opened.
+## **Optimizing Traffic Flow through Intelligent Signal Management**
 
-If there is no traffic jam in any lane, the system sequentially keeps open one lane one after another. But if there is traffic jam in one or more lanes, the system serves the lane in which traffic jam occured first.
+## Project Overview
+This project is aimed at developing a **Smart Traffic Signal System** that optimizes the flow of traffic based on real-time vehicle density at intersections. The system dynamically adjusts signal priorities to give more time to the direction with higher vehicle density. By assigning vehicles a default weight based on their type (e.g., cars, trucks), the system allocates signal time in a way that balances traffic efficiency.
 
-- I’m looking to collaborate on **I'm looking for collaborators who are passionate about: - **Traffic Management Systems**: Developers, engineers, or urban planners who are interested in optimizing and improving traffic flow using smart technologies. - **Machine Learning & AI**: Experts in AI who can help improve the real-time detection and analysis of vehicle data. - **IoT and Smart Cities**: Innovators working on IoT and smart infrastructure solutions that align with Vision 2030 and the concept of sustainable cities. - **Open-Source Enthusiasts**: Contributors who want to help with code development, testing, and documentation.**
+For example:
+- **Small cars** are given a weight of 1.
+- **Large trucks** are assigned a weight of 2.
 
-- 💬 Ask me about **Feel free to reach out and ask me about: - **Smart Traffic Systems**: How the system works, its architecture, and how it can be integrated with existing infrastructure. - **Traffic Optimization Algorithms**: The logic behind vehicle prioritization and dynamic signal timing. - **Vision 2030**: How this project aligns with Saudi Vision 2030 and contributes to smart city initiatives. - **Contributing to the Project**: How you can get involved, collaborate, or contribute new features or improvements.**
+This allows for a more realistic distribution of signal time, ensuring that both light and heavy vehicles are accounted for. If an intersection has a total signal time of 2 minutes, the system will allocate 20 seconds for each signal, adjusting based on traffic conditions to optimize flow.
+
+## Key Features
+- **Real-time vehicle density measurement**: Detects the number of vehicles at each signal.
+- **Weighted vehicle prioritization**: Adjusts signal time based on vehicle type (e.g., small cars vs. large trucks).
+- **Dynamic signal timing**: Allocates more time to directions with higher traffic, reducing congestion and wait time.
+
+## Vision 2030 Alignment
+This project supports **Saudi Vision 2030**, which seeks to enhance urban infrastructure and improve the quality of life through the integration of smart technologies. By improving traffic flow, the **Smart Traffic Signal System** helps in:
+- Reducing traffic congestion.
+- Lowering carbon emissions.
+- Enhancing the daily commuting experience.
+
+The system also contributes to the development of **smart cities** that use intelligent solutions to manage resources efficiently, aligning with the broader goals of Vision 2030.
+
+## Benefits
+- **Time Efficiency**: Reduces wait times at intersections, improving overall traffic flow.
+- **Environmental Impact**: Lower idle times at signals can contribute to reduced fuel consumption and emissions.
+- **Scalability**: Can be adapted for use in cities with different traffic patterns and densities.
+- **Flexibility**: Signal timings can be easily modified based on changes in traffic behavior, ensuring long-term effectiveness.
+
+## Getting Started
+To set up the project on your local machine:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/smart-traffic-signal-system.git
+
 
 - 📫 How to reach me **kalgghamdi@gmail.com**
 
