@@ -71,6 +71,35 @@ The **Smart Traffic Signal System** offers several key features that contribute 
 
 These features make the system highly adaptable and efficient in improving both traffic flow and urban mobility.
 
+## 🛠 Problems Faced
+During the development of the **Smart Traffic Signal System**, we encountered a few challenges:
+
+- **Real-time Data Accuracy**: Ensuring precise vehicle detection and classification under varying weather and traffic conditions.
+- **Balancing Traffic Flow**: Achieving an optimal signal timing for all directions without creating delays in less congested areas.
+- **Infrastructure Integration**: Adapting the system to work seamlessly with older traffic signal infrastructure required additional hardware and software adjustments.
+- **Scalability**: Expanding the system for larger cities posed challenges in maintaining real-time performance across multiple intersections.
+- **Data Privacy**: Ensuring that real-time monitoring respects privacy laws and secures data was a priority.
+
+Despite these challenges, we managed to overcome them through continuous testing and system optimization.
+
+## Libraries Used
+
+1. streamlit
+2. opencv-python
+3. Pillow
+4. numpy
+5. moviepy
+6. imageio[ffmpeg]
+7. inference-sdk
+8. ultralytics
+9. deep_sort_realtime
+10. imageio
+11. paddlepaddle
+12. paddleocr
+13. matplotlib
+14. pandas
+
+
 
 
 - 📫 How to reach me **kalgghamdi@gmail.com**
