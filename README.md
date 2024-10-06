@@ -62,13 +62,13 @@ Code Snippet: Vehicle Detection and Signal Timing
   
 - Waleed AlIkhwan
 
-## Course Teachers
+## Course instructors
 1. Ali H. El-Kassas<br/>
 Data Science Instructor,Tuwaiq Academy 
 
 2. Saliyah Alotaibi <br/>
 Data Science Instructor,Tuwaiq Academy 
 
-3.Hassan_Algoz <br/>
+3. Hassan_Algoz <br/>
 Data Science Instructor,Tuwaiq Academy 
 
