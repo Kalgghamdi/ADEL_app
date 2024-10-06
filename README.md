@@ -1,4 +1,3 @@
-<h1 align="center"> I'm ADEL_APP</h1>
 <h3 align="center">Smart Traffic Signal System</h3>
 
 # ADEL_APP Project - 2024
