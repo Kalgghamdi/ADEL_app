@@ -1,4 +1,4 @@
-<h3 align="center">Smart Traffic Signal System</h3>
+<h2 align="center">Smart Traffic Signal System</h2>
 
 # ADEL_APP Project - 2024
 # Smart Traffic Signal Control System
@@ -20,3 +20,33 @@ If there is no traffic jam in any lane, the system sequentially keeps open one l
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+
+
+
+
+
+## Problems Faced
+1. The ATmega32 has 3 timers. We have used timer1 for the sonar while timer0 for determining the time duration a vehicle remains stand still. That's why we have to use one microcontroller for each lane of any road. This leads to increased number of microcontrollers
+2. The systems performs badly if two or more lanes become jam packed. In that case, the system serves only the jam packed roads while the other roads remains unserved.
+
+## Group Members Information
+- Mohammed Alrowais 
+
+- Mohammed Al Malki 
+
+- Khaled AlGhamdi 
+  
+- Waleed AlIkhwan
+
+## Course Teachers
+1. Ali H. El-Kassas<br/>
+Data Science Instructor,Tuwaiq Academy 
+
+2. Saliyah Alotaibi <br/>
+Data Science Instructor,Tuwaiq Academy 
+
+3.Hassan_Algoz <br/>
+Data Science Instructor,Tuwaiq Academy 
+
