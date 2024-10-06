@@ -62,15 +62,13 @@ Enhanced Traffic Violation Detection: Add more sophisticated violation detection
 Cloud Integration: Store real-time traffic data on the cloud for long-term analysis and improvements.
 
 ## Group Members Information
-- Mohammed Alrowais 
-https://www.linkedin.com/in/mohammed-alrowais-565563277/
-- Mohammed Al Malki 
-https://www.linkedin.com/in/mohammed-almalki-m2000/
+## 👥 Group Members Information
 
-- Khaled AlGhamdi 
-  https://www.linkedin.com/in/khaled-alghamdi-b33718a5/
-- Waleed AlIkhwan
-https://www.linkedin.com/in/waleed-al-ikhwan-a9725a139/
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Alrowais-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohammed-alrowais-565563277/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Al%20Malki-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohammed-almalki-m2000/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khaled%20AlGhamdi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/khaled-alghamdi-b33718a5/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Waleed%20AlIkhwan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/waleed-al-ikhwan-a9725a139/)
+
 
 ## Course instructors
 1. Ali H. El-Kassas<br/>
