@@ -37,10 +37,11 @@ This project implements a **Smart Traffic Signal System** that optimizes traffic
    cd smart-traffic-signal-system
 2. **Install dependencies**:
    ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
-3.Run the application:
-streamlit run app.py
+3. **Run the application**:
+   ```bash
+   streamlit run app.py
 
 
 🔍 How It Works
